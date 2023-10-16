@@ -1,0 +1,15 @@
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\bin\Debug\net6.0\FirstFactorial.exe
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\bin\Debug\net6.0\FirstFactorial.deps.json
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\bin\Debug\net6.0\FirstFactorial.runtimeconfig.json
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\bin\Debug\net6.0\FirstFactorial.dll
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\bin\Debug\net6.0\FirstFactorial.pdb
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.csproj.AssemblyReference.cache
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.AssemblyInfoInputs.cache
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.AssemblyInfo.cs
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.csproj.CoreCompileInputs.cache
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.dll
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\refint\FirstFactorial.dll
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.pdb
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\FirstFactorial.genruntimeconfig.cache
+C:\Mhoo\Learning\C#\FirstFactorial\FirstFactorial\FirstFactorial\obj\Debug\net6.0\ref\FirstFactorial.dll
